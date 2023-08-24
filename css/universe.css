@@ -1,0 +1,9 @@
+@import url(./css/universe.css);
+
+body {
+background: url(../assets/mountains-universe02.png);
+}
+
+#universe {
+  font-weight: bold;
+}

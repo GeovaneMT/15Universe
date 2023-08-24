@@ -1,0 +1,14 @@
+@import url(./css/home.css);
+
+body {
+  background: url(../assets/mountains-universe-1.png);
+  place-content: center !important;
+}
+
+p, h1 {
+  text-align: center;
+}
+
+#home {
+  font-weight: bold;
+}

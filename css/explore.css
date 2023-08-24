@@ -1,0 +1,9 @@
+@import url(./css/explore.css);
+
+body {
+background: url(../assets/mountains-universe-3.png);
+}
+
+#explore {
+  font-weight: bold;
+}

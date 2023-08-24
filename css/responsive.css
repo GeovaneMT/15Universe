@@ -1,0 +1,12 @@
+@media (min-width: 500px) {
+body {
+  place-content:initial;
+  align-items: center;
+}
+
+nav {
+  justify-content: start;
+  margin: 5rem 8rem;
+  gap: 4rem;
+}
+}
